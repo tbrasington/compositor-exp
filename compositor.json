@@ -65,7 +65,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n"
+      "html": "\n<p>Paragraph of text</p>\n<p>...custom\n what goes in here\n...</p>\n"
     },
     {
       "component": "footer",
