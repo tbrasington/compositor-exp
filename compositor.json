@@ -45,7 +45,7 @@
     {
       "component": "header",
       "heading": "compositor-exp",
-      "subhead": null,
+      "subhead": "foo",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -57,7 +57,8 @@
           "user": "tbrasington",
           "repo": "compositor-exp"
         }
-      ]
+      ],
+      "text": "and this is a new thing"
     },
     {
       "component": "article",
